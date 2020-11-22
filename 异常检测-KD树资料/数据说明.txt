@@ -1,0 +1,10 @@
+下载网址
+http://kdd.ics.uci.edu/
+
+
+
+kddcup.data_10_percent.gz A 10% subset. (2.1M; 75M Uncompressed)  有标签 NORMAL 和 ATTACK 都有 提取其中的NORMAL建模
+
+
+
+
